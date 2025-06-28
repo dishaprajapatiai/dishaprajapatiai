@@ -43,6 +43,6 @@
   </a>
 </div>
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake dark](https://raw.githubusercontent.com/disha9213/disha9213/output/github-contribution-grid-snake-dark.svg)
 
 ###
