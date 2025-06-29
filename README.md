@@ -1,37 +1,61 @@
-<br clear="both" />
+
 
 <p align="left">
- <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=31&height=70&pause=5000&color=F7F7F7&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Disha" alt="Typing SVG" />
- <br>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=31&height=70&pause=5000&color=F7F7F7&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Disha" alt="Typing SVG" />
+ <div style="line-space:1;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=F7F7F7&width=435&lines=~+Third-year+CSE+student+%F0%9F%8E%93" />
   <br>
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=F7F7F7&width=435&lines=~+Exploring+data+science+%26+beyond+%F0%9F%93%8A" />
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=F7F7F7&width=449&lines=~+Breaking+problems+,+not+promises+%F0%9F%98%8E" />
+ </div>
 </p>
 
-<br clear="both" />
 
+
+<!-- GitHub Profile Summary Cards -->
+<!-- Profile Summary Card (Full Width) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=disha9213&theme=github_dark" alt="GitHub Profile Details" />
+</p>
+
+<!-- Three Cards in a Row -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=disha9213&theme=github_dark" alt="Most Used Languages" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=disha9213&theme=github_dark" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=disha9213&theme=github_dark&utcOffset=8" alt="Commits" />
+    </td>
+  </tr>
+</table>
+<br>
+<br>
 <!-- Animated GIF (great!) -->
-<img align="right" height="188" src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" />
+ 
+<img align="right" height="250" style="border-radius:10 px" src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" />
 
 <!-- Tech Stack Icons -->
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+<div  style="margin-right:2 rem; align:left" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
 </div>
 <br>
 <!-- Social Links -->
@@ -48,6 +72,7 @@
 </div>
 <br>
 <br>
+<br clear="both" />
 <!-- GitHub Contribution Snake -->
 <div>
   <h2  style="font-family: Pacifico, cursive;">🐍 <b>GitHub Contribution Snake</b></h2>
