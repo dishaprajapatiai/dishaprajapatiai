@@ -44,6 +44,9 @@ Hi there 👋 I'm Disha <br>
   </a>
 </div>
 
-<!-- GitHub Contribution Snake -->
-### 🐍 GitHub Contribution Snake
-![GitHub Snake dark](https://raw.githubusercontent.com/disha9213/disha9213/output/github-contribution-grid-snake-dark.svg)
+
+
+<div align="center">
+  <span><strong>🐍 GitHub Contribution Snake</strong></span><br>
+  <img src="https://raw.githubusercontent.com/disha9213/disha9213/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</div>
