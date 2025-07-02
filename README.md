@@ -40,7 +40,9 @@
 <img align="right" height="250" style="border-radius:10 px" src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" />
 
 <!-- Tech Stack Icons -->
+
 <div  style="margin-right:2 rem; align:left" >
+ <h2>My Skills</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
