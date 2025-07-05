@@ -45,7 +45,7 @@
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=31&height=70&pause=6000&color=F7F7F7&width=435&lines=My+Skills" alt="Typing SVG" />
  <br> -->
  <!-- Animated Gif 1-->
-<img align="right" height="450" width="450"  style="border-radius:10 px" src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" />
+<img align="right" height="430" width="430"  style="border-radius:10 px" src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" />
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"  alt="javascript logo" />
   
