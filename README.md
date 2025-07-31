@@ -16,20 +16,20 @@
 <!-- GitHub Profile Summary Cards -->
 <!-- Profile Summary Card (Full Width) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=disha9213&theme=github_dark" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dishaprajapatiai&theme=github_dark" alt="GitHub Profile Details" />
 </p>
 
 <!-- Three Cards in a Row -->
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=disha9213&theme=github_dark" alt="Most Used Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dishaprajapatiai&theme=github_dark" alt="Most Used Languages" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=disha9213&theme=github_dark" alt="Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dishaprajapatiai&theme=github_dark" alt="Stats" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=disha9213&theme=github_dark&utcOffset=8" alt="Commits" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dishaprajapatiai&theme=github_dark&utcOffset=8" alt="Commits" />
     </td>
   </tr>
 </table>
