@@ -1,35 +1,53 @@
 
 
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=31&height=70&pause=5000&color=F7F7F7&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Disha" alt="Typing SVG" />
- <div style="line-space:1;">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=31&height=70&pause=5000&color=F7F7F7&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Disha" alt="Typing SVG" />
+</p>
+
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=F7F7F7&width=435&lines=~+Third-year+CSE+student+%F0%9F%8E%93" />
   <br>
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=F7F7F7&width=435&lines=~+Exploring+data+science+%26+beyond+%F0%9F%93%8A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=F7F7F7&width=435&lines=~+Exploring+data+science+%26+beyond+%F0%9F%93%8A" />
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=F7F7F7&width=449&lines=~+Breaking+problems+,+not+promises+%F0%9F%98%8E" />
- </div>
 </p>
 
 
 
 <!-- GitHub Profile Summary Cards -->
 <!-- Profile Summary Card (Full Width) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dishaprajapatiai&theme=github_dark" alt="GitHub Profile Details" />
-</p>
+
 
 <!-- Three Cards in a Row -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dishaprajapatiai&theme=github-compact&height=210&hide_border=true"
+    alt="Contribution Graph"
+  />
+</p>
+
 <table>
   <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dishaprajapatiai&theme=github_dark" alt="Most Used Languages" />
+    <td align="center" width="33%">
+      <img
+        src="https://streak-stats.demolab.com/?user=dishaprajapatiai&theme=dark&hide_border=false"
+        alt="GitHub Streak"
+        height="165"
+      />
     </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dishaprajapatiai&theme=github_dark" alt="Stats" />
+    <td align="center" width="33%">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=dishaprajapatiai&layout=compact&theme=dark&hide_border=false"
+        alt="Most Used Languages"
+        height="165"
+      />
     </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dishaprajapatiai&theme=github_dark&utcOffset=8" alt="Commits" />
+    <td align="center" width="33%">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=dishaprajapatiai&layout=donut&theme=dark&hide_border=false"
+        alt="Languages Donut"
+        height="165"
+      />
     </td>
   </tr>
 </table>
@@ -40,28 +58,43 @@
 
 <!-- Tech Stack Icons -->
 
-<div  style="margin-right:2 rem; align:left" >
- <h2>My Skills</h2>
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=31&height=70&pause=6000&color=F7F7F7&width=435&lines=My+Skills" alt="Typing SVG" />
- <br> -->
- <!-- Animated Gif 1-->
-<img align="right" height="430" width="430"  style="border-radius:10 px" src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"  alt="javascript logo" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"  alt="html5 logo" />
+<div align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"  alt="css3 logo" />
+<h2>My Skills</h2>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"  alt="python logo" />
+<!-- Animated GIF -->
+<img align="right" height="270" width="370"
+src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="40"  alt="oracle logo" />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="40"  alt="matlab logo" />
+<!-- Programming Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40"  alt="java logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40"  alt="cplusplus logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="java logo" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="cplusplus logo" />
+
+<!-- Tools & Software -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="40" alt="oracle logo" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="40" alt="matlab logo" />
+
+<!-- Tableau -->
+<img src="https://img.icons8.com/color/48/tableau-software.png" height="40" width="40" alt="tableau logo" />
+
+<!-- Power BI -->
+<img src="https://img.icons8.com/color/48/power-bi.png" height="40" width="40" alt="powerbi logo" />
+
+<!-- Excel -->
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" width="40" alt="excel logo" />
+
 </div>
 <br>
 <br>
