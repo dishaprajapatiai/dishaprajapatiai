@@ -28,27 +28,27 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img
         src="https://streak-stats.demolab.com/?user=dishaprajapatiai&theme=dark&hide_border=false"
         alt="GitHub Streak"
-        height="165"
+        height="165" width = "420"
       />
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%" >
       <img
         src="https://github-stats-extended.vercel.app/api/top-langs/?username=dishaprajapatiai&layout=compact&theme=dark&hide_border=false"
         alt="Most Used Languages"
-        height="165"
+        height="165" width = "420"
       />
     </td>
-    <td align="center" width="33%">
+    <!-- <td align="center" width="33%">
       <img
         src="https://github-stats-extended.vercel.app/api/top-langs/?username=dishaprajapatiai&layout=donut&theme=dark&hide_border=false"
         alt="Languages Donut"
         height="165"
       />
-    </td>
+    </td> -->
   </tr>
 </table>
 
