@@ -1,12 +1,10 @@
 
 
 <p align="center">
-  <img src="[https://your-image-link.png](https://unsplash.com/photos/hills-and-ocean-at-sunset-with-warm-light-YiRaXIR5Etk](https://unsplash.com/photos/hills-and-ocean-at-sunset-with-warm-light-YiRaXIR5Etk)" width="100%" />
+  <img src="photos/final-bg-img.png" width="100%" height="60%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Disha</h1>
 
-<h3 align="center">A Data Science Enthusiast from India</h3>
 
 
 
