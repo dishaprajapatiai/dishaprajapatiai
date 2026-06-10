@@ -1,16 +1,12 @@
 
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=31&height=70&pause=5000&color=F7F7F7&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Disha" alt="Typing SVG" />
+<p align="center">
+  <img src="[https://your-image-link.png](https://unsplash.com/photos/hills-and-ocean-at-sunset-with-warm-light-YiRaXIR5Etk](https://unsplash.com/photos/hills-and-ocean-at-sunset-with-warm-light-YiRaXIR5Etk)" width="100%" />
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=F7F7F7&width=435&lines=~+Third-year+CSE+student+%F0%9F%8E%93" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=F7F7F7&width=435&lines=~+Exploring+data+science+%26+beyond+%F0%9F%93%8A" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=F7F7F7&width=449&lines=~+Breaking+problems+,+not+promises+%F0%9F%98%8E" />
-</p>
+<h1 align="center">Hi 👋, I'm Disha</h1>
+
+<h3 align="center">A Data Science Enthusiast from India</h3>
 
 
 
