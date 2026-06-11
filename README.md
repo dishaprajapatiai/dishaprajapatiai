@@ -20,31 +20,24 @@
   />
 </p>
 
+<!-- <Cards> -->
 <table>
   <tr>
     <td align="center" width="50%">
       <img
-        src="https://streak-stats.demolab.com/?user=dishaprajapatiai&theme=dark&hide_border=false"
+        src="https://streak-stats.demolab.com/?user=dishaprajapatiai&theme=dark&hide_border=true"
         alt="GitHub Streak"
-        height="165" width = "420"
+        width="420"
       />
     </td>
-    <td align="center" width="50%" >
-      <img
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=dishaprajapatiai&layout=compact&theme=dark&hide_border=false"
-        alt="Most Used Languages"
-        height="165" width = "420"
-      />
+<td align="center" width="50%">
+     <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishaprajapatiai&layout=compact&theme=dark&hide_border=true&card_width=420&langs_count=6"
+/>
     </td>
-    <!-- <td align="center" width="33%">
-      <img
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=dishaprajapatiai&layout=donut&theme=dark&hide_border=false"
-        alt="Languages Donut"
-        height="165"
-      />
-    </td> -->
   </tr>
 </table>
+
 
 
 
@@ -57,8 +50,9 @@
 <h2>My Skills</h2>
 
 <!-- Animated GIF -->
-<img align="right" height="270" width="370"
-src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" />
+<div><img align="right" height="270" width="370"
+src="photos/study-gif.gif"/></div>
+
 
 <!-- Programming Languages -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo" />
@@ -94,9 +88,7 @@ src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gi
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 <!-- Social Links -->
 <div align="left">
