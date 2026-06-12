@@ -1,18 +1,35 @@
 
-
+<!--Banner-->
 <p align="center">
   <img src="photos/final-bg-img.png" width="100%" height="60%">
 </p>
 
 
 
+<p align="left">
+<sub>
+
+I'm  a Computer Science Engineering student passionate about Data Science 📊, Machine Learning 🤖, and Web Development 🌐. I enjoy building projects, solving real-world problems through technology, and continuously exploring new tools and frameworks to expand my skill set.
 
 
+
+Aside from coding, I love learning about AI, working on innovative projects, participating in hackathons, and sharing my journey as a developer. 🚀
+
+- 🎓 Currently pursuing B.Tech in Computer Science Engineering
+- 📊 Exploring Data Science, Machine Learning, and AI
+- 🌐 Building responsive and user-friendly web applications
+- 💡 Interested in solving real-world problems through technology
+- 🤝 Open to collaborations, internships, and learning opportunities
+- 📚 Always learning and improving my technical skills
+
+</sub>
+</p>
+
+<p align="center">
+  <img src="photos/helloWorld.gif" height="90" width = "100%">
+</p>
 <!-- GitHub Profile Summary Cards -->
-<!-- Profile Summary Card (Full Width) -->
-
-
-<!-- Three Cards in a Row -->
+<!-- Profile Summary Graph -->
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=dishaprajapatiai&theme=github-compact&height=210&hide_border=true"
@@ -44,9 +61,7 @@
 
 
 <!-- Tech Stack Icons -->
-
 <div align="left">
-
 <h2>My Skills</h2>
 
 <!-- Animated GIF -->
@@ -56,33 +71,23 @@ src="photos/study-gif.gif"/></div>
 
 <!-- Programming Languages -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="java logo" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="cplusplus logo" />
 
 <!-- Tools & Software -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="40" alt="oracle logo" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="40" alt="matlab logo" />
 
 <!-- Tableau -->
 <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" width="40" alt="tableau logo" />
-
 <!-- Power BI -->
 <img src="https://img.icons8.com/color/48/power-bi.png" height="40" width="40" alt="powerbi logo" />
-
 <!-- Excel -->
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" width="40" alt="excel logo" />
-
 </div>
 <br>
 <br>
@@ -91,9 +96,10 @@ src="photos/study-gif.gif"/></div>
 
 
 <!-- Social Links -->
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=31&height=70&pause=6000&color=F7F7F7&width=435&lines=Let's+Connect" alt="Typing SVG" /> -->
 <div align="left">
  <h2>Let's Connect</h2>
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=31&height=70&pause=6000&color=F7F7F7&width=435&lines=Let's+Connect" alt="Typing SVG" /> -->
+
 <a href="https://discord.com/users/disha_19903" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
 </a>&nbsp
