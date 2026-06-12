@@ -117,5 +117,9 @@ src="photos/study-gif.gif"/></div>
   <img src="https://raw.githubusercontent.com/dishaprajapatiai/dishaprajapatiai/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" style="margin-top:2px;"/>
 </div>
 
+<div align = "center">
+  <img align="center" height="270" width="370"
+src="photos/coding-gif.gif"/>
+</div>
 
 
