@@ -11,10 +11,6 @@
 
 I'm  a Computer Science Engineering student passionate about Data Science 📊, Machine Learning 🤖, and Web Development 🌐. I enjoy building projects, solving real-world problems through technology, and continuously exploring new tools and frameworks to expand my skill set.
 
-
-
-Aside from coding, I love learning about AI, working on innovative projects, participating in hackathons, and sharing my journey as a developer. 🚀
-
 - 🎓 Currently pursuing B.Tech in Computer Science Engineering
 - 📊 Exploring Data Science, Machine Learning, and AI
 - 🌐 Building responsive and user-friendly web applications
