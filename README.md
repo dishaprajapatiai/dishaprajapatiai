@@ -6,7 +6,7 @@
 
 
 
-<p align="left">
+<p align="center">
 <sub>
 
 I'm  a Computer Science Engineering student passionate about Data Science , Machine Learning , and Web Development . I enjoy building projects, solving real-world problems through technology, and continuously exploring new tools and frameworks to expand my skill set.
@@ -51,6 +51,11 @@ I'm  a Computer Science Engineering student passionate about Data Science , Mach
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=2000&color=FFB347&center=true&vCenter=true&width=800&lines=⚡+Fun+fact:+My+Machine+Learning+Model+and" alt="Typing SVG" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=2000&color=4FC3F7&center=true&vCenter=true&width=800&lines=....I+are+still+learning+😄" alt="Typing SVG" />
+</p>
 
 
 
@@ -127,9 +132,12 @@ src="photos/study-gif.gif"/></div>
   <img src="https://raw.githubusercontent.com/dishaprajapatiai/dishaprajapatiai/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" style="margin-top:2px;"/>
 </div>
 
-<div align = "center">
-  <img align="center" height="270" width="370"
+<div >
+  <img align="center" height="300" width="100%"
 src="photos/coding-gif.gif"/>
 </div>
-
-
+<br>
+<p align ="center">
+  ⚡ You've reached the end. The bugs haven't. 😄<br>
+  ⚡ Thanks for visiting! May your code compile on the first try. 🚀
+</p>
