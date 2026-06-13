@@ -9,7 +9,7 @@
 <p align="left">
 <sub>
 
-I'm  a Computer Science Engineering student passionate about Data Science 📊, Machine Learning 🤖, and Web Development 🌐. I enjoy building projects, solving real-world problems through technology, and continuously exploring new tools and frameworks to expand my skill set.
+I'm  a Computer Science Engineering student passionate about Data Science , Machine Learning , and Web Development . I enjoy building projects, solving real-world problems through technology, and continuously exploring new tools and frameworks to expand my skill set.
 
 - 🎓 Currently pursuing B.Tech in Computer Science Engineering
 - 📊 Exploring Data Science, Machine Learning, and AI
@@ -72,6 +72,14 @@ src="photos/study-gif.gif"/></div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="java logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="cplusplus logo" />
+
+
+<!-- MySQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo" />
+
+
+<!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo" />
 
 <!-- Tools & Software -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo" />
