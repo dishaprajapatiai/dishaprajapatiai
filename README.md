@@ -139,7 +139,7 @@ src="photos/coding-gif.gif"/>
 <br>
 <p align ="center">
   ⚡ You've reached the end. The bugs haven't. 😄<br>
-  ⚡ Thanks for visiting! May your code compile on the first try. 🚀
+  ⚡ May your code compile on the first try. 🚀
 </p>
 
 <p align="center">
