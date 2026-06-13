@@ -6,20 +6,23 @@
 
 
 
-<p align="center">
-<sub>
+<div align="center">
+
 
 I'm  a Computer Science Engineering student passionate about Data Science , Machine Learning , and Web Development . I enjoy building projects, solving real-world problems through technology, and continuously exploring new tools and frameworks to expand my skill set.
 
-- 🎓 Currently pursuing B.Tech in Computer Science Engineering
-- 📊 Exploring Data Science, Machine Learning, and AI
-- 🌐 Building responsive and user-friendly web applications
-- 💡 Interested in solving real-world problems through technology
-- 🤝 Open to collaborations, internships, and learning opportunities
-- 📚 Always learning and improving my technical skills
+🎓 Currently pursuing B.Tech in Computer Science Engineering
 
-</sub>
-</p>
+📊 Exploring Data Science, Machine Learning, and AI
+
+🌐 Building responsive and user-friendly web applications
+
+💡 Interested in solving real-world problems through technology
+ 
+🤝 Open to collaborations, internships, and learning opportunities
+
+📚 Always learning and improving my technical skills
+</div>
 
 <p align="center">
   <img src="photos/helloWorld.gif" height="90" width = "100%">
@@ -33,24 +36,18 @@ I'm  a Computer Science Engineering student passionate about Data Science , Mach
   />
 </p>
 
-<!-- <Cards> -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://streak-stats.demolab.com/?user=dishaprajapatiai&theme=dark&hide_border=true"
-        alt="GitHub Streak"
-        width="420"
-      />
-    </td>
-<td align="center" width="50%">
-     <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishaprajapatiai&layout=compact&theme=dark&hide_border=true&card_width=420&langs_count=6"
-/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=dishaprajapatiai&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dishaprajapatiai&show_icons=true&theme=dark&hide_border=true" width="45%" alt="GitHub Stats" />
 
+<br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishaprajapatiai&layout=compact&theme=dark&hide_border=true" width="40%" alt="Top Languages" />
+
+</div>
+
+
+<!--Fun Fact-->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=2000&color=FFB347&center=true&vCenter=true&width=800&lines=⚡+Fun+fact:+My+Machine+Learning+Model+and" alt="Typing SVG" />
   <br>
@@ -102,7 +99,8 @@ src="photos/study-gif.gif"/></div>
 <br>
 <br>
 <br>
-
+<br>
+<br>
 
 <!-- Social Links -->
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=31&height=70&pause=6000&color=F7F7F7&width=435&lines=Let's+Connect" alt="Typing SVG" /> -->
