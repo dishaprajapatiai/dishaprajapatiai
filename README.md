@@ -130,8 +130,8 @@ src="photos/study-gif.gif"/></div>
   <img src="https://raw.githubusercontent.com/dishaprajapatiai/dishaprajapatiai/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" style="margin-top:2px;"/>
 </div>
 
-<div >
-  <img align="center" height="300" width="100%"
+<div align = "center">
+  <img align="center" height="300" width="60%"
 src="photos/coding-gif.gif"/>
 </div>
 <br>
