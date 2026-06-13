@@ -141,3 +141,7 @@ src="photos/coding-gif.gif"/>
   ⚡ You've reached the end. The bugs haven't. 😄<br>
   ⚡ Thanks for visiting! May your code compile on the first try. 🚀
 </p>
+
+<p align="center">
+  <img src="photos/footer-bg-img.png" width="100%" height="40%">
+</p>
