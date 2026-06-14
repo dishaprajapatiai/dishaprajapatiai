@@ -56,9 +56,6 @@ I'm  a Computer Science Engineering student passionate about Data Science , Mach
 </p>
 
 
-
-
-
 <!-- Tech Stack Icons -->
 <div align="left">
 <h2>My Skills</h2>
