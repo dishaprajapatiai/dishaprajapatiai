@@ -32,7 +32,7 @@ I'm  a Computer Science Engineering student passionate about Data Science , Mach
 <!-- Profile Summary Graph -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dishaprajapatiai&theme=github-compact&height=210&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dishaprajapatiai&theme=github-compact&height=300&hide_border=true"
     alt="Contribution Graph"
   />
 </p>
