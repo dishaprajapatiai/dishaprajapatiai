@@ -16,7 +16,7 @@ I'm  a Computer Science Engineering student passionate about Data Science , Mach
 
 📊 Exploring Data Science, Machine Learning, and AI
 
-🌐 Building responsive and user-friendly web applications
+
 
 💡 Interested in solving real-world problems through technology
  
