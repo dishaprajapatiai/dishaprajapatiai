@@ -129,7 +129,7 @@ src="photos/study-gif.gif"/></div>
 </div>
 
 <div align = "center">
-  <img align="left" height="300" width="60%"
+  <img align="center" height="300" width="60%"
 src="photos/coding-gif.gif"/>
 </div>
 <br>
