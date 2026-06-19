@@ -8,8 +8,6 @@
 <h2>About Me</h2>
 </div>
 <div align="left">
-
-
 I'm  a Computer Science Engineering student passionate about Data Science , Machine Learning , and Web Development . I enjoy building projects, solving real-world problems through technology, and continuously exploring new tools and frameworks to expand my skill set.
 
 🎓 Currently pursuing B.Tech in Computer Science Engineering
