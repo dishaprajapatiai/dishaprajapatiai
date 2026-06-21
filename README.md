@@ -39,8 +39,7 @@ I'm  a Computer Science Engineering student passionate about Data Science , Mach
   <img src="https://github-readme-stats.vercel.app/api?username=dishaprajapatiai&show_icons=true&theme=dark&hide_border=true" width="45%" alt="GitHub Stats" />
 
 <br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishaprajapatiai&layout=compact&theme=dark&hide_border=true" width="40%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishaprajapatiai&layout=compact&theme=dark&hide_border=true" width="40%" alt="Top Languages" />
 
 </div>
 
