@@ -40,7 +40,6 @@ I'm  a Computer Science Engineering student passionate about Data Science , Mach
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishaprajapatiai&layout=compact&theme=dark&hide_border=true" width="40%" alt="Top Languages" />
-
 </div>
 
 
