@@ -135,5 +135,5 @@ src="photos/coding-gif.gif"/>
 </p>
 
 <p align="center">
-  <img src="photos/footer-bg-img.png" width="100%" height="40%">
+  <img src="photos/footer-bg-img.png" width="100%" height="30%">
 </p>
