@@ -21,6 +21,8 @@ I'm  a Computer Science Engineering student passionate about Data Science , Mach
 
 📚 Always learning and improving my technical skills
 </div>
+
+<!--Hello World url-->
 <p align="center">
   <img src="photos/helloWorld.gif" height="90" width = "100%">
 </p>
