@@ -96,8 +96,6 @@ src="photos/study-gif.gif"/></div>
 <br>
 <br>
 
-
-
 <!-- Social Links -->
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=31&height=70&pause=6000&color=F7F7F7&width=435&lines=Let's+Connect" alt="Typing SVG" /> -->
 <div align="left">
