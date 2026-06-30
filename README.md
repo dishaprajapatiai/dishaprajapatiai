@@ -45,6 +45,8 @@ I'm  a Computer Science Engineering student passionate about Data Science , Mach
 </div>
 
 
+
+
 <!--Fun Fact-->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=2000&color=FFB347&center=true&vCenter=true&width=800&lines=⚡+Fun+fact:+My+Machine+Learning+Model+and" alt="Typing SVG" />
