@@ -120,7 +120,6 @@ src="photos/study-gif.gif"/></div>
 <br clear="both" />
 <!-- GitHub Contribution Snake -->
 <div>
-<!--  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=31&height=70&pause=6000&color=F7F7F7&width=435&lines=%F0%9F%90%8D+Github+Contribution+Snake" alt="Typing SVG" /> -->
   <h2  style="font-family: Pacifico, cursive;">🐍 <b>GitHub Contribution Snake</b></h2>
   <img src="https://raw.githubusercontent.com/dishaprajapatiai/dishaprajapatiai/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" style="margin-top:2px;"/>
 </div>
