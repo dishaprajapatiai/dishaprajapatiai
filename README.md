@@ -44,7 +44,7 @@ I'm  a Computer Science Engineering student passionate about Data Science , Mach
 />
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishaprajapatiai&layout=compact&theme=dark&hide_border=true" width="40%" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dishaprajapatiai&theme=github_dark" width="350" />
 </div>
 
 
