@@ -35,8 +35,7 @@ I'm  a Computer Science Engineering student passionate about Data Science , Mach
     alt="Contribution Graph"
   />
 </p>
- 
-<div align="center">
+ <div align="center">
   <img src="https://streak-stats.demolab.com/?user=dishaprajapatiai&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
   <img
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=dishaprajapatiai&show_icons=true&theme=dark&hide_border=true"
