@@ -62,7 +62,6 @@ I'm  a Computer Science Engineering student passionate about Data Science , Mach
 <div><img align="right" height="270" width="370"
 src="photos/study-gif.gif"/></div>
 
-
 <!-- Programming Languages -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo" />
