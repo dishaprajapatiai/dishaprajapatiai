@@ -1,4 +1,4 @@
-<!--Banner-->
+ <!--Banner-->
 <p align="center">
   <img src="photos/final-bg-img.png" width="100%" height="60%">
 </p>
