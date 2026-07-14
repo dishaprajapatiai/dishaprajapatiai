@@ -2,7 +2,6 @@
 <p align="center">
   <img src="photos/final-bg-img.png" width="100%" height="60%">
 </p>
-
 <!--Introduction-->
 <div align = "left">
 <h2>About Me</h2>
