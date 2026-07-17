@@ -113,8 +113,6 @@ src="photos/study-gif.gif"/></div>
   </a>&nbsp
 </div>
 
-
-
 <br>
 <br>
 <br clear="both" />
