@@ -134,4 +134,3 @@ src="photos/coding-gif.gif"/>
 <p align="center">
   <img src="photos/footer-bg-img.png" width="100%" height="30%">
 </p>
-
