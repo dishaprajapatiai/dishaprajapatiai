@@ -131,9 +131,6 @@ src="photos/coding-gif.gif"/>
   ⚡ May your code compile on the first try. 🚀
 </p>
 
-
-
-
 <p align="center">
   <img src="photos/footer-bg-img.png" width="100%" height="30%">
 </p>
