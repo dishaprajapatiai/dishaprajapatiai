@@ -53,7 +53,6 @@ I'm  a Computer Science Engineering student passionate about Data Science , Mach
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=2000&color=4FC3F7&center=true&vCenter=true&width=800&lines=....I+are+still+learning+😄" alt="Typing SVG" />
 </p>
 
-
 <!-- Tech Stack Icons -->
 <div align="left">
 <h2>My Skills</h2>
