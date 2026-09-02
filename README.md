@@ -33,7 +33,7 @@ I'm  a Computer Science Engineering student passionate about Data Science , Mach
   <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=dishaprajapatiai&theme=github-compact&hide_border=true" alt="Contribution Graph" />
 </p>
 
-
+<!--CARDS-->
  <div align="center">
   <img src="https://streak-stats.demolab.com/?user=dishaprajapatiai&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
  <img src="https://github-readme-stats.vercel.app/api?username=dishaprajapatiai&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
