@@ -30,17 +30,14 @@ I'm  a Computer Science Engineering student passionate about Data Science , Mach
 <!-- GitHub Profile Summary Cards -->
 <!-- Profile Summary Graph -->
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dishaprajapatiai&theme=github-compact&height=300&hide_border=true"
-    alt="Contribution Graph"
-  />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=dishaprajapatiai&theme=github-compact&hide_border=true" alt="Contribution Graph" />
 </p>
+
+
  <div align="center">
   <img src="https://streak-stats.demolab.com/?user=dishaprajapatiai&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
-  <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=dishaprajapatiai&show_icons=true&theme=dark&hide_border=true"
-  height="170"
-/>
+ <img src="https://github-readme-stats.vercel.app/api?username=dishaprajapatiai&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+   
 <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dishaprajapatiai&theme=github_dark" width="350" />
 </div>
